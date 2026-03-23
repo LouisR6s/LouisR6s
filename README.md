@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Engineer;Red+Team+Operator;Infrastructure+%26+Cloud;Active+Directory+Specialist;Offensive+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Student;Red+Team+%7C+Infrastructure;Active+Directory+%7C+Network+Security;DevSecOps+%7C+Linux" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROLE-RED_TEAM-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-INFRA+%26+SECURITY-red?style=for-the-badge" />
 </p>
 
 ---
@@ -14,13 +14,13 @@
 
 <pre>
 &gt; whoami
-Cybersecurity Student (M2) — Offensive Security / Infrastructure
+Cybersecurity Student (M2) — ESGI Reims
 
-&gt; specialization
-Active Directory • Pentest • Red Team • Network Security • DevSecOps
+&gt; background
+Réseau • Systèmes • Cybersécurité • Infrastructure
 
 &gt; mindset
-Break → Understand → Exploit → Secure
+Break → Understand → Secure
 </pre>
 
 ---
@@ -28,41 +28,40 @@ Break → Understand → Exploit → Secure
 ## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,python,bash,powershell,git,github,aws,nginx,postgres,mysql,js,html,css,cloudflare,ansible,terraform" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,python,bash,powershell,git,github,aws,nginx,mysql,html,css" />
 </p>
 
 ---
 
-## 🧪 Homelab / Cyber Range
+## 🧪 Homelab / Lab Environment
 
 <pre>
-[+] Proxmox / VMware / Virtualization Lab
-[+] Active Directory Lab (Attacks & Hardening)
-[+] Docker Infrastructure (Self-hosted services)
-[+] Tailscale Private Network
-[+] PKI + HTTPS + Internal CA
-[+] DNS (Bind9 Master/Slave)
+[+] Virtualisation : VMware / Proxmox / VirtualBox
+[+] Environnements Linux : Debian / Rocky / Ubuntu / Kali
+[+] Réseaux : VLAN, NAT, VPN, DHCP, DNS
+[+] Services : Nginx, Apache2, SSH, Samba
+[+] Sécurité : Wazuh, Fail2ban, Wireshark
 </pre>
 
 ---
 
 ## 💻 Hardware / Battle Station
 
-### ⚙️ Core
+### 🖥️ Main Workstation
 <p>
   <img src="https://img.shields.io/badge/CPU-Ryzen%207%205800X3D-0f172a?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/GPU-RTX%204080%20SUPER%20AERO%20OC-22c55e?style=for-the-badge&logo=nvidia&logoColor=black" />
   <img src="https://img.shields.io/badge/RAM-32GB%20DDR4-f97316?style=for-the-badge" />
 </p>
 
-### 💾 Storage Layer
+### 💾 Storage
 <p>
   <img src="https://img.shields.io/badge/NVMe-Crucial%204TB-6366f1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NVMe-Crucial%202TB-3b82f6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NVMe-WD%202TB-64748b?style=for-the-badge" />
 </p>
 
-### 🖥️ Display Grid
+### 🖥️ Displays
 <p>
   <img src="https://img.shields.io/badge/Main-4K%20OLED%20240Hz-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Secondary-1080p%20240Hz-065f46?style=for-the-badge" />
@@ -71,44 +70,78 @@ Break → Understand → Exploit → Secure
 
 ---
 
-## 🚀 Active Operations
+## 💼 Mobile Workstations
 
-<pre>
-[+] Red Team implant (Raspberry Pi + C2 Havoc)
-[+] Docker Control Panel (Custom UI + API)
-[+] CI/CD Pipeline (Flask + Jenkins + Docker)
-[+] PKI Infrastructure (OpenSSL / CRL / HTTPS)
-[+] DNS Infrastructure (Bind9 Master/Slave)
-</pre>
+### 💻 Lenovo Legion
+<p>
+  <img src="https://img.shields.io/badge/CPU-Ryzen%205%205600H-blue?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPU-RTX%203060-green?style=for-the-badge&logo=nvidia&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAM-32GB-orange?style=for-the-badge" />
+</p>
 
----
-
-## 🧠 Current Focus
-
-<pre>
-- Active Directory Attacks (Kerberos / NTLM / ACL abuse)
-- Privilege Escalation (Linux / Windows)
-- Cloud Security (AWS / IAM / Networking)
-- Container Security (Docker / Kubernetes)
-- Infrastructure Hardening
-</pre>
-
----
-
-## 📊 System Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+### 🍏 MacBook Air M3
+<p>
+  <img src="https://img.shields.io/badge/Chip-Apple%20M3-black?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Usage-Dev%20%26%20Docker-grey?style=for-the-badge" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+<pre>
+[+] PAF — Pénétration Attaque Furtive (ESGI)
+    → Implant Red Team (Raspberry Pi + borne Ubiquiti)
+    → Exfiltration vers C2 Havoc (Proxmox)
+    → Environnement Red/Blue Team (Kali, Debian, Rocky)
+
+[+] CI/CD Flask + Jenkins
+    → Pipeline complet (tests, build Docker, déploiement VM)
+    → Application : Chicago Art Explorer
+
+[+] PKI & HTTPS Lab
+    → Autorité de certification (CA)
+    → Déploiement HTTPS sécurisé (Debian / Rocky)
+</pre>
+
+---
+
+## 🏢 Experience
+
+<pre>
+[+] Administrateur réseau — Chasseurs de France (2024–2025)
+    → Gestion réseau interne
+    → Maintenance parc informatique
+    → Déploiement serveur sécurisé exposé Internet (HTTPS)
+
+[+] Technicien réseau — SANEF (2023–2024)
+    → Installation & maintenance équipements réseau
+    → Participation à la supervision sécurité SI
+
+[+] Stages IT (2020–2023)
+    → Support utilisateurs
+    → Déploiement logiciels
+    → Maintenance réseau & postes
+</pre>
+
+---
+
+## 🧠 Skills
+
+<pre>
+Réseau :
+IP • VLAN • NAT • ACL • DHCP • DNS • VPN • Firewall • Proxy • QoS
+
+Systèmes :
+Linux (Debian, Rocky, Ubuntu, Kali) • Windows Server • VMware • Docker
+
+Cybersécurité :
+PKI • TLS • chiffrement (AES, RSA) • hardening • SIEM (Wazuh)
+analyse réseau • forensic • red team / blue team
+
+Scripting :
+Bash • PowerShell • Python • HTML/CSS
+</pre>
 
 ---
 
@@ -120,15 +153,4 @@ Break → Understand → Exploit → Secure
 &gt; Attack surface reduced
 &gt; Detection improved
 &gt; Response optimized
-</pre>
-
----
-
-## ⚡ Status
-
-<pre>
-🟢 Online
-🔐 Securing systems
-🚀 Building offensive tooling
-⚔️ Red Team mindset enabled
 </pre>
